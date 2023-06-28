@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding-left: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+
+}
+
+header {
+    background-color: chocolate;
+    padding: 16px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    border-bottom: 16px solid rgb(210, 131, 75);
+    justify-content: center;
+    text-transform: uppercase;
+    font-style: italic;
+
+}
+
+form {
+    background-color: rgb(193, 202, 199);
+    padding: 8px;
+    text-align: center;
+    
+}
+
+form h2 {
+    margin-bottom: 16px;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: center;
+
+}
+
+input, button {
+    padding: 8px;
+
+}
+
+button {
+    background-color: rgb(148, 148, 155);
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+
+li {
+    text-decoration: line-through;
+
+}
