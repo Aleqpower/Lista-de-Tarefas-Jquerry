@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding-left: 0;
     box-sizing: border-box;
     font-family: Roboto, sans-serif;
 
@@ -49,7 +48,7 @@ button {
 }
 
 
-li {
+.decorar {
     text-decoration: line-through;
 
 }
